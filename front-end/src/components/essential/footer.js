@@ -5,7 +5,7 @@ export default function Footer() {
 
         <footer className="py-5 bg-white border mt-5">
             <div className="container">
-                <p className="text-center san-serif-font mb-0"><small>Copyright &copy; Giovanni Works 2020</small></p>
+                <p className="text-center san-serif-font mb-0"><small>Copyright &copy; Goa Galih 2020</small></p>
             </div>
         </footer>
     )

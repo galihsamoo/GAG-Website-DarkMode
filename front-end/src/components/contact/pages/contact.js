@@ -39,7 +39,7 @@ class contact extends Component {
                                     <Card.Body>
                                         <Card.Title><h1><FontAwesomeIcon style={{ color: "#25D366" }} icon={['fab', 'whatsapp']} /></h1></Card.Title>
                                         <Card.Subtitle className="text-muted">WhatsApp</Card.Subtitle>
-                                        <Card.Text className="san-serif-font"><small><b>(+61)</b> 426807941</small></Card.Text>
+                                        <Card.Text className="san-serif-font"><small><b>(+62)</b> 82140808729</small></Card.Text>
                                     </Card.Body>
                                 </a>
                             </Card>
@@ -52,7 +52,7 @@ class contact extends Component {
                                 <Card.Body>
                                     <Card.Title><h1><FontAwesomeIcon style={{ color: "#03c4a1" }} icon={['fas', 'phone']} /></h1></Card.Title>
                                     <Card.Subtitle className="text-muted">Phone</Card.Subtitle>
-                                    <Card.Text className="san-serif-font"><small><b>(+62)</b> 81231466200</small></Card.Text>
+                                    <Card.Text className="san-serif-font"><small><b>(+62)</b> 82140808729</small></Card.Text>
                                 </Card.Body>
                             </Card>
 
@@ -64,7 +64,7 @@ class contact extends Component {
                                     <Card.Body>
                                         <Card.Title><h1><FontAwesomeIcon icon={['fab', 'github']} /></h1></Card.Title>
                                         <Card.Subtitle className="text-muted">GitHub</Card.Subtitle>
-                                        <Card.Text className="san-serif-font"><small>giovannitjahjono</small></Card.Text>
+                                        <Card.Text className="san-serif-font"><small>galihsamudrosulaksono</small></Card.Text>
                                     </Card.Body>
                                 </a>
                             </Card>
@@ -77,7 +77,7 @@ class contact extends Component {
                                     <Card.Body>
                                         <Card.Title><h1><FontAwesomeIcon style={{ color: "#0e76a8" }} icon={['fab', 'linkedin']} /></h1></Card.Title>
                                         <Card.Subtitle className="text-muted">LinkedIn</Card.Subtitle>
-                                        <Card.Text className="san-serif-font" ><small>giovannitjahjono</small></Card.Text>
+                                        <Card.Text className="san-serif-font" ><small>galihsamudrosulaksono</small></Card.Text>
                                     </Card.Body>
                                 </a>
                             </Card>

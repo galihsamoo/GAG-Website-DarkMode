@@ -13,9 +13,9 @@ export default class explore extends Component {
                 <Navigation selectedPage="explore" />
                 <section>
                     <Container className="pt-4 pb-5">
-                        <h1 style={{ fontWeight: "bold" }}>Crafting seamless <i style={{ color: "lightseagreen" }} className="code">experiences</i></h1>
-                        <h1 style={{ fontWeight: "bold" }}>through <i style={{ color: "lightskyblue" }} className="code">software</i> you <i style={{ color: "lightcoral" }} className="code">love</i></h1>
-                        <p style={{ fontWeight: "italic", fontFamily: "Roboto" }}>Welcome to my labs of works. Let's take a look my projects</p>
+                        <h1 style={{ fontWeight: "bold" }}>Welcome to my <i style={{ color: "lightseagreen" }} className="code">Goa</i></h1>
+                        <h1 style={{ fontWeight: "bold" }}>have a <i style={{ color: "lightskyblue" }} className="code">nice</i> day 😁</h1>
+
                     </Container>
                 </section>
                 <List_Projek />
