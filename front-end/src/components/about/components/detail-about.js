@@ -83,7 +83,7 @@ class About extends Component {
                                     <table className="text-left">
                                         <tr>
                                             <td className="text-right" style={{ color: "lightcoral" }}><strong>Name</strong></td>
-                                            <td>: Goa Galih</td>
+                                            <td>: GoaGalih</td>
                                         </tr>
                                         <tr>
                                             <td className="text-right" style={{ color: "lightcoral" }}><strong>Codename</strong></td>

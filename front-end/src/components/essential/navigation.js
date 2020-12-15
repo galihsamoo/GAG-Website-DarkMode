@@ -10,7 +10,7 @@ export default function navigation(param) {
 
             <Navbar className="justify-content-center navbar-expand-lg shadow-none p-3 mb-5 bg-white border navbar" sticky="top" expand="lg" style={{ opacity: 0.96 }}>
                 <Container>
-                    <Link to="/"><Navbar.Brand style={{ fontWeight: "bold" }} >Goa <NavbarBrand className="logo"> Galih</NavbarBrand></Navbar.Brand></Link>
+                    <Link to="/"><Navbar.Brand style={{ fontWeight: "bold" }} >Goa<NavbarBrand className="logo">Galih</NavbarBrand></Navbar.Brand></Link>
 
                     <Navbar.Toggle aria-controls="menu" />
                     <Navbar.Collapse id="menu" className="justify-content-center">
